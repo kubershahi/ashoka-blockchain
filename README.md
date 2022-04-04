@@ -1,2 +1,1 @@
-# ashoka-blockchain
-Repo for Blockchain Projects
+# Implementation Details
